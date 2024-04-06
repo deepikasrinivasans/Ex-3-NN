@@ -106,6 +106,8 @@ test=np.array([[0],[0]])
 predict(w1,w2,test)
 ```
 <H3>Output:</H3>
+
 ![1n](https://github.com/deepikasrinivasans/Ex-3-NN/assets/119393935/dc963ba8-1da6-4c64-a500-caba6ff10ba7)
+
 <H3> Result:</H3>
 Thus, XOR classification problem can be solved using MLP in Python 
